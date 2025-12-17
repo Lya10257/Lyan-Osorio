@@ -1,5 +1,5 @@
-# Lyan-Osorio
-# 👋 Hola, soy Lyan Osorio
+# Lya-Osorio
+# 👋 Hola, soy Lya Osorio
 
 🎓 Estudiante interesado en el área de tecnologíam, programación y herramientas digitales.
 
